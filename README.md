@@ -26,6 +26,9 @@ cd udp_socket
 # For udp, run these commands in different terminals
 make server
 make client
+
+# Use this to clean up executables in either folder
+make clean
 ```
 
 ## Notes
