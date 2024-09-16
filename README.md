@@ -1,6 +1,7 @@
-# Local client server program in C
+# Local client server program
 
-Program I made that allows communication over sockets using linux socket libraries in C.
+A program I made that allows online text chatting in the terminal.
+The communication happens over sockets and was made using the linux socket libraries in C.
 
 ## Installation
 
